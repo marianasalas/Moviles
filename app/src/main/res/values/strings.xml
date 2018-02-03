@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Sesion5</string>
+    <string-array name="Escolaridad">
+        <item>Escoge una opción</item>
+        <item>Primaria</item>
+        <item>Secundaria</item>
+        <item>Bachillerato</item>
+        <item>Licenciatura</item>
+        <item>Maestría</item>
+        <item>Doctorado</item>
+    </string-array>
+    <string name="limpiar_text">Limpiar</string>
+    <string-array name="Libros">
+        <item>Crear o Morir</item>
+        <item>Rayuela</item>
+        <item>Bajo la misma estrella</item>
+        <item>Maravilloso Desastre</item>
+        <item>En nombre del amor</item>
+    </string-array>
+    <string name="size">16dp</string>
+    <string name="limpiar_dialog">¿Desea limpiar la pantalla?</string>
+    <string name="Aceptar">Limpiar</string>
+    <string name="Cancelar">Cancelar</string>
+    <string name="hint_nombre">Ingrese su nombre</string>
+    <string name="hint_phone">Ingrese su teléfono</string>
+    <string name="femenino">Femenino</string>
+    <string name="masculino">Masculino</string>
+    <string name="genero">Género</string>
+    <string name="Libro">Libro Favorito</string>
+    <string name="deporte">Practica Deporte</string>
+
+</resources>
+
+
+
